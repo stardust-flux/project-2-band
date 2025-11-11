@@ -4,3 +4,44 @@
     box-sizing: border-box;
     font-family: Arial, sans-serif;
 }
+
+
+#home {
+    background-color:#c7c7c1;
+}
+
+#about {
+    background-color: #4d4c4c;
+}
+
+#disc {
+    background-color: #2961d0;
+}
+
+#videos {
+    background-color: #505050;
+}
+
+#tour {
+    background-color: #c7c7c1;
+}
+
+.container-fluid.footer {
+    background-color: #333;
+}
+
+.container-fluid.footer .text-body-secondary {
+    color: #fff !important;
+}
+
+.main-hero {
+    background-color:#333;
+    color: white;
+}
+
+.about-hero-img {
+    background-image: url('../images/MenITrust-LuckySueTides-868x434.jpg');
+    background-size: cover;
+    background-position: center;
+    color: white;
+}
